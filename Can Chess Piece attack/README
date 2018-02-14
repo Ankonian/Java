@@ -1,0 +1,7 @@
+This piece of code creates a linked list of when reading an input line from a file.
+First it checks if there's a chess piece at given position, if no print out a - in the output file.
+If there is a chess piece in the position, print out the letter of the chess piece in the output file and check if it's attacking other pieces.
+If it is attacking, print y, if not print n.
+Move on to the next line and create new linked list and repeated above steps.
+I got some code from Sesh's notes, specifically the insert() and traverse() in the linked list.
+I didn't use traverse() to run the code, it's more like a debugging method to check where went wrong.

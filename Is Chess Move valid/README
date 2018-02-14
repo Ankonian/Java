@@ -1,0 +1,3 @@
+ChessMove actually moves chess pieces on the board which turns out is exponentially harder than just see if it's attacking other pieces.
+Used crap ton of if statements and some externally help on ideas where my code went wrong. Also crap ton of System output just to debug where the frick-frack-snick-snack my code went wrong.
+Also had an entire bottle of Yerba Mate just to keep me going on working this assignment.

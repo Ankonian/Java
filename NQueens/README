@@ -1,0 +1,3 @@
+This code was designed to calculate if it's possible to place one queen in each column of the board given the board size and the coordinate of the first queen.
+Originally I was using the two array method Sesh showed in class. But I was sttuggling to keep track of the backtracking in the recursion. 
+I asked my roommate about this problem, he said since there's one queen in each column, there's no need of two array. One array is sufficient and it's easier to keep track of the backtracking. So I did that and the code looks a lot cleaner and it worked.
